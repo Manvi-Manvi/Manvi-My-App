@@ -1,0 +1,14 @@
+body {
+	background-image:url("background.jpg")
+   }
+.helpline{
+  font-size: 40px; 
+  color:blanchedalmond; 
+}
+.header{
+  color:blanchedalmond;
+  font-size:100px;
+}
+img{
+  width:20%
+}
